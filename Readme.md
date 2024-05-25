@@ -1,7 +1,7 @@
 
 # Student Management System
 
-##Brief
+## Brief
 The Student Management System is a C program designed to manage a basic student database using a queue data structure for efficient handling of student information. The primary objective of this project is to provide a streamlined approach to add, remove, and manage student records in a structured manner.
 ### Features:
 - ####  Add Student Data Manually:
